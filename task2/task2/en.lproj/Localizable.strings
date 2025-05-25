@@ -1,0 +1,26 @@
+/* 
+  Localizable.strings
+  task2
+
+  Created by Ivan Gorokhov on 4/28/25.
+  
+*/
+/* Common */
+"enter_city" = "Enter city";
+"search" = "Search";
+"temperature" = "Temperature";
+"error" = "Error";
+"city_not_found" = "City not found in database";
+
+/* Cities */
+"city_rome" = "Rome";
+"city_milan" = "Milan";
+"city_paris" = "Paris";
+"city_marseille" = "Marseille";
+"city_berlin" = "Berlin";
+"city_munich" = "Munich";
+
+/* Countries */
+"country_italy" = "Italy";
+"country_france" = "France";
+"country_germany" = "Germany";
