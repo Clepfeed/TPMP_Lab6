@@ -1,6 +1,6 @@
 //
-//  task4App.swift
-//  task4
+//  task5App.swift
+//  task5
 //
 //   
 //
@@ -8,10 +8,11 @@
 import SwiftUI
 
 @main
-struct task4App: App {
+struct GradeConverterApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
+                .environmentObject(GradeConverter())
         }
     }
 }

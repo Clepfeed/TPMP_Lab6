@@ -1,0 +1,23 @@
+/* 
+  Localizable.strings
+  task5
+
+   
+  
+*/
+/* Subjects */
+"Math Analysis" = "Mathematical Analysis";
+"Geometry" = "Geometry and Algebra";
+"Programming" = "Programming";
+
+/* Section headers */
+"Subjects" = "Subjects";
+"Grading System" = "Grading System";
+"Converted Grades" = "Converted Grades";
+"Average Grade" = "Average Grade";
+
+/* Actions */
+"Convert" = "Convert";
+
+/* Results */
+"Average" = "Average";

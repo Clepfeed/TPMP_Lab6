@@ -1,0 +1,16 @@
+/* 
+  Localizable.strings
+  task5
+
+   
+  
+*/
+"Math Analysis" = "Математический анализ";
+"Geometry" = "Геометрия и алгебра";
+"Programming" = "Программирование";
+"Subjects" = "Предметы";
+"Grading System" = "Система оценивания";
+"Convert" = "Конвертировать";
+"Converted Grades" = "Конвертированные оценки";
+"Average Grade" = "Средний балл";
+"Average" = "Среднее";
